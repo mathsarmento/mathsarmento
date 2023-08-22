@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h2>👋 Hello world, Welcome to my profile! </h2>
+<h3>About me:</h3>
+<p>I'm <strong>Matheus Sarmetno</strong>, am 20 years old <strong>Software Engineering</strong> student at <a href="https://www.42network.org/" target="_blank">42 São Paulo</a>.</p>
 <!--
 **mathsarmento/mathsarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
