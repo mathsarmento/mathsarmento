@@ -17,7 +17,6 @@ I can solve <strong>logical problems</strong> with ease, I have experience with 
    <a href="https://github.com/mathsarmento/42-Get-next-line" target="_blank">
       <img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
    </a>
-   https://game.42sp.org.br/static/assets/achievements/get_next_linem.png
 </div>
 <!--
 **mathsarmento/mathsarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
