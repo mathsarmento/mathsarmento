@@ -5,7 +5,7 @@
 As a hobbie, I enjoy surfing, cooking and talking about.  
 </p>
 <p>
-I can solve <strong>logical problems</strong> with ease, I have experience with languages such as<strong> C, JS, Phython </strong> and <strong>TypeScript</strong>, and <strong>angular</strong> framework.
+I can solve <strong>logical problems</strong> with ease, I have experience with languages such as<strong> C, JS, Python </strong> and <strong>TypeScript</strong>, and <strong>angular</strong> framework.
 </p>
 
 <h2>💻 42 Projects</h1>
