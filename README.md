@@ -8,19 +8,6 @@ As a hobbie, I enjoy surfing, cooking and talking about.
 I can solve <strong>logical problems</strong> with ease, I have experience with languages such as<strong> C, JS, Python </strong> and <strong>TypeScript</strong>, and <strong>angular</strong> framework.
 </p>
 
-<h2>💻 42 Projects</h1>
-
-<div align="center">
-   <a href="https://github.com/mathsarmento/42-Libft" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
-   </a>
-   <a href="https://github.com/mathsarmento/42-Get-next-line" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png">
-   </a>
-   <a href="**https://github.com/mathsarmento/42-ft_printf" target="_blank">
-      <img height=120 src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png">
-   </a>
-</div>
 <!--
 **mathsarmento/mathsarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
