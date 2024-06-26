@@ -1,6 +1,6 @@
 <h1>👋 Hello world, Welcome to my profile! </h1>
 <h2>😃 About me:</h2>
-<p>I'm <strong> Matheus Sarmento</strong>, 20 years old, currently studying software engineering at <strong><a href="https://www.42network.org/" target="_blank">42 São Paulo</a></strong>, and working at <strong> Orhganiza Tecnologia </strong> (with Angular) as a Dev. </p>
+<p>I'm <strong> Matheus Sarmento</strong>, 20 years old, currently studying Computer Science at <strong><a href="https://portal.fei.edu.br/" target="_blank">FEI (Fundação Educacional Inaciana)</a></strong>, and working at <strong> Orhganiza Tecnologia </strong> (with Angular) as a Dev. </p>
 <p>
 As a hobbie, I enjoy surfing, cooking and talking about.  
 </p>
